@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/docs/concepts/operations/build/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/app-developer-guide/build-an-app/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/concepts/components/builder/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/concepts/components/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/operator-guide/create-a-builder/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/app-developer-guide/environment-variables/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/install-pack/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/app-developer-guide/specific-buildpacks/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/app-journey/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/concepts/components/buildpack/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/reference/buildpack-api/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/reference/distribution-api/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/concepts/operations/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/reference/platform-api/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/concepts/operations/rebase/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/concepts/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/concepts/components/lifecycle/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/app-developer-guide/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/buildpack-author-guide/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/buildpack-author-guide/create-buildpack/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/concepts/components/stack/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/operator-guide/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/reference/builder-config/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/reference/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/buildpack-author-guide/create-buildpack/setup-local-environment/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/buildpack-author-guide/create-buildpack/building-blocks-cnb/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/buildpack-author-guide/create-buildpack/detection/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/buildpack-author-guide/create-buildpack/build-app/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/buildpack-author-guide/create-buildpack/make-app-runnable/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/buildpack-author-guide/create-buildpack/caching/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/buildpack-author-guide/create-buildpack/make-buildpack-configurable/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
